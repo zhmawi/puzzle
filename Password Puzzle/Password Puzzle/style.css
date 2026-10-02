@@ -1,0 +1,165 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 55%;
+    border-radius: 20px;
+    height: 255px;
+}
+
+h3 {
+    color: black;
+    text-align: left;
+    margin-left: 110px;
+}
+
+.instructions {
+    text-align: left;
+    line-height: 1.4;
+    font-size: 16px;
+    margin-left: 111px;
+}
+
+.level-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.level-title-1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.password-list-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    min-height: 120px;
+    border: 1px solid whitesmoke;
+}
+
+.password-1 {
+    text-align: center;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 220px;
+    cursor: pointer;
+}
+
+.password-1:hover {
+    background-color: wheat;
+}
+
+.level-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.level-title-2 {
+    text-align: center;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+    border: 1 px solid white;
+}
+
+.password-list-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    min-height: 120px;
+    border: 1px solid whitesmoke;
+}
+
+.password-2 {
+    text-align: center;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 220px;
+    cursor: pointer;
+}
+
+.password-2:hover {
+    background-color: wheat;
+}
+
+.level-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.level-title-3 {
+    text-align: center;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.password-list-3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    min-height: 120px;
+    border: 1px solid whitesmoke;
+
+}
+
+.password-3 {
+    text-align: center;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 220px;
+    cursor: pointer;
+}
+
+.password-3:hover {
+    background-color: wheat;
+}
+
+.password-box {
+    text-align: center;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: gray;
+}
+
+.next-button {
+    display: block;
+    padding: 10px;
+    background-color: goldenrod;
+    color: black;
+    width: 60px;
+    text-align: center;
+    border-radius:  5px;
+    text-decoration: none;
+    margin: 20px auto;
+
+}
